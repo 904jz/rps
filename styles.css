@@ -1,0 +1,15 @@
+.choice{
+    height:75px;
+    width: 75px;
+    background-color: white;
+    border: none;
+
+}
+.game{
+    justify-content: space-between;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
